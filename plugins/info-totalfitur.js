@@ -13,7 +13,7 @@ let totalf = Object.values(global.plugins).filter(
   ).length;
  await conn.sendButton(m.chat, `Total Fitur Bot Saat ini: ${totalf}\n`,wm + '\n\n' + botdate, giflogo, [['MENU','.menu']], m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtu.be/pwLZpdfO8AU',
+                        sourceUrl: 'https://instagram.com/arrhmdfauzan_',
                         mediaType: 2,
                         description: `⚘ ᴄʀᴇᴀᴛᴇ mikasa ackerman×፝֟͜`,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
