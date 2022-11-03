@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 import fs from 'fs'
 let handler = async (m, { conn, args, command }) => {
-  const ultah = new Date('November 4 2022 00:0:01')
+  const ultah = new Date('February 17 2022 00:0:01')
     const sekarat = new Date().getTime() 
     const Kurang = ultah - sekarat
     const ohari = Math.floor( Kurang / (1000 * 60 * 60 * 24));
