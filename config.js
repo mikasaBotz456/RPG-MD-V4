@@ -45,9 +45,9 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283890269424'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorown = '994407652481'
+global.namebot = 'Mikasa Ackerman'
+global.nameown = '𝐍̶A̶̶Z̶̶U̶̶A̶̶F̶' 
 
 
 /*============== STAFF ==============*/
