@@ -12,11 +12,11 @@ const sections = [
    {
     title: `✃ VIRTEX`,
 	rows: [
-	    {title: "🌀Power 1", rowId: '.virtex21', description: 'Jangan lupa Subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× BOT' },
-	    {title: "🌀Power 2", rowId: '.virtex22', description: 'Jangan lupa subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× BOT' },
-	{title: "🌀Power 3", rowId: '.virtex23', description: 'Jangan lupa subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× BOT' },
-	{title: "🌀Power 4", rowId: '.virtex24', description: 'Jangan lupa subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× BOT' },
-	{title: "🌀Power 5", rowId: '.virtex25', description: 'Jangan lupa subs Yt ᴹᴿ᭄ King Of Bear ×፝֟͜× BOT' },
+	    {title: "🌀Power 1", rowId: '.virtex21', description: 'Jangan lupa Follow Instagram @arrhmdfauzan_' },
+	    {title: "🌀Power 2", rowId: '.virtex22', description: 'Jangan lupa Follow Instagram @arrhmdfauzan_' },
+	{title: "🌀Power 3", rowId: '.virtex23', description: 'Jangan lupa Follow Instagram @arrhmdfauzan_' },
+	{title: "🌀Power 4", rowId: '.virtex24', description: 'Jangan lupa Follow Instagram @arrhmdfauzan_' },
+	{title: "🌀Power 5", rowId: '.virtex25', description: 'Jangan lupa Follow Instagram @arrhmdfauzan_' },
 	]
     }, {
     title: `✃ INFO`,
