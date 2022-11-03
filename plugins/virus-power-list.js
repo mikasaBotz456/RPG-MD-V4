@@ -22,7 +22,7 @@ const sections = [
     title: `✃ INFO`,
 	rows: [
 	    {title: "🔥Download WhatsApp Imune", rowId: '.imune', description: 'Download WhatsApp Kebal' },
-	    {title: "🔥Virus Troli", rowId: '.virustroli', description: 'Subs Yt FANGZ ᴹᴿ᭄ King Of Bear ×፝֟͜×' },
+	    {title: "🔥Virus Troli", rowId: '.virustroli', description: 'Follow Instagram @arrhmdfauzan_' },
 	    ]
         }, {
     title: `✃ BUY`,
