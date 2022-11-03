@@ -108,7 +108,7 @@ global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/cb53ef5fe495dcec07178.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
 global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
