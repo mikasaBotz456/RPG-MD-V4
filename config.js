@@ -47,12 +47,12 @@ global.psaweria = '-'
 global.nomorbot = '6283890269424'
 global.nomorown = '994407652481'
 global.namebot = 'Mikasa Ackerman'
-global.nameown = '𝐍̶A̶̶Z̶̶U̶̶A̶̶F̶' 
+global.nameown = '✿͜͡ঔৣ͜͡Mikasaシ︎' 
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['994407652481', '✿͜͡ঔৣ͜͡Owner Mikasaシ︎', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
