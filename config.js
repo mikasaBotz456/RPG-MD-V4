@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm = 'Mikasa Ackerman | By F' //Main Watermark
+global.wm2 = 'Mikasa Ackerman '
+global.wm3 = 'Mikasa Ackerman | By F'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.titlebot = `Mikasa Ackerman | ʙʏ ${global.nameown}`
+global.author = 'F' 
+global.packname = 'Mikasa Ackerman'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
