@@ -22,8 +22,8 @@ ${pickRandom(global.pantun)}
                 },
                 {
                     urlButton: {
-                        displayText: ' SUBSCRIBE ME',
-                        url: 'https://youtu.be/pwLZpdfO8AU'
+                        displayText: 'Follow My Instagram',
+                        url: 'https://instagram.com/arrhmdfauzan_'
                     }
                 },
                 {
