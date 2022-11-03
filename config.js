@@ -155,7 +155,7 @@ global.cmenut = '––––––『' //top
 global.cmenuh = '』––––––' //header
 global.cmenub = '┊☃︎ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = ''\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n' //after
+global.cmenua = '' //after
 global.pmenus = '☃︎' //pembatas menu selector
 
 global.htki = '––––『' //hiasan title kiri
