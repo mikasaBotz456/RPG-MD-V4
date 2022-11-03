@@ -97,7 +97,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = 'Mikasa Ackerman | By F' //Main Watermark
-global.wm2 = 'Mikasa Ackerman '
+global.wm2 = 'Mikasa Ackerman'
 global.wm3 = 'Mikasa Ackerman | By F'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
