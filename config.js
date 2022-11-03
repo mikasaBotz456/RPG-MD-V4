@@ -47,7 +47,7 @@ global.psaweria = '-'
 global.nomorbot = '6283890269424'
 global.nomorown = '994407652481'
 global.namebot = 'Mikasa Ackerman'
-global.nameown = '✿͜͡ঔৣ͜͡Mikasaシ︎' 
+global.nameown = 'F' 
 
 
 /*============== STAFF ==============*/
