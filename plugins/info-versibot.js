@@ -20,13 +20,13 @@ const message = {
                 {
                     urlButton: {
                         displayText: 'Beli Sc? Klik',
-                        url: 'https://wa.me/6288279268363'
+                        url: 'https://wa.me/994407652481'
                     }
                 },
                 {
                     urlButton: {
-                        displayText: 'Ke YouTube',
-                        url: 'https://youtu.be/pwLZpdfO8AU',
+                        displayText: 'Instagram',
+                        url: 'https://instagram.com/arrhmdfauzan_',
                     }
                 },
             ]
